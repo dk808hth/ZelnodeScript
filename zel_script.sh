@@ -159,8 +159,8 @@ fi
     echo "rpcuser=$RPCUSER" >> ~/.zelcash/$CONFIG_FILE
     echo "rpcpassword=$PASSWORD" >> ~/.zelcash/$CONFIG_FILE
     echo "rpcallowip=127.0.0.1" >> ~/.zelcash/$CONFIG_FILE
-    echo "port=$PORT >> ~/.zelcash/$CONFIG_FILE
-    echo "rpcport=$RPCPORT >> ~/.zelcash/$CONFIG_FILE
+    echo "port=$PORT" >> ~/.zelcash/$CONFIG_FILE
+    echo "rpcport=$RPCPORT" >> ~/.zelcash/$CONFIG_FILE
     echo "zelnode=1" >> ~/.zelcash/$CONFIG_FILE
     echo zelnodeprivkey=$zelnodeprivkey >> ~/.zelcash/$CONFIG_FILE
     echo "server=1" >> ~/.zelcash/$CONFIG_FILE
