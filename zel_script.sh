@@ -174,9 +174,11 @@ fi
     echo "addnode=explorer.zel.zelcore.io" >> ~/.zelcash/$CONFIG_FILE
     echo "addnode=explorer2.zel.cash" >> ~/.zelcash/$CONFIG_FILE
     echo "addnode=explorer.zelcash.online" >> ~/.zelcash/$CONFIG_FILE
-    echo "addnode=node-eu.zelcash.com" >> ~/.zelcash/$CONFIG_FILE
-    echo "addnode=node-uk.zelcash.com" >> ~/.zelcash/$CONFIG_FILE
-    echo "addnode=node-asia.zelcash.com" >> ~/.zelcash/$CONFIG_FILE
+    echo "addnode=66.206.17.250:16125" >> ~/.zelcash/$CONFIG_FILE
+    echo "addnode=149.28.150.123:16125" >> ~/.zelcash/$CONFIG_FILE
+    echo "addnode=68.107.135.107:16125" >> ~/.zelcash/$CONFIG_FILE
+    echo "addnode=94.130.120.53:16125" >> ~/.zelcash/$CONFIG_FILE
+    echo "addnode=78.46.55.206:16125" >> ~/.zelcash/$CONFIG_FILE
     echo "maxconnections=256" >> ~/.zelcash/$CONFIG_FILE
 
 sleep 2
